@@ -1,1 +1,12 @@
+ID#
 
+-btnMenu --> boton menu
+-menu --> lista desordenada del menu
+-btnLeft --> boton izquierda del slide
+-btnRight --> boton derecha del slide
+-sldSize --> tamaño del slide
+
+CLASS.
+
+-mList --> elementos de la lista desordenada
+-sldStyle --> estilo del slide
